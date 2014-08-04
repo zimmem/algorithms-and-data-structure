@@ -1,4 +1,4 @@
-package com.zimem.algorithms.datastructure.binarytree;
+package com.zimmem.algorithms.datastructure.binarytree;
 
 public class TreeMain {
 

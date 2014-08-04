@@ -1,4 +1,4 @@
-package com.zimem.algorithms.sort;
+package com.zimmem.algorithms.sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;

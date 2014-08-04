@@ -1,4 +1,4 @@
-package com.zimem.algorithms.sort;
+package com.zimmem.algorithms.sort;
 
 /**
  * 比较排序， 开头开始， 每一个跟后面的比较， 如果比后面的大， 就交换位置， 复杂度 O(n^2), 最垃圾的算法

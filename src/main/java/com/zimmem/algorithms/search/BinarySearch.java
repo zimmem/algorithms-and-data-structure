@@ -1,4 +1,4 @@
-package com.zimem.algorithms.search;
+package com.zimmem.algorithms.search;
 
 /**
  * 二分查找， 基于已排序数组。

@@ -1,4 +1,4 @@
-package com.zimem.algorithms.sort;
+package com.zimmem.algorithms.sort;
 
 public class QuickSort implements SortFunction {
 
